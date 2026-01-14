@@ -1,0 +1,99 @@
+{
+  "categories": [
+    {
+      "id": "museum",
+      "name": "Museum",
+      "poiIds": [
+        "Byzantine Museum of Veria",
+        "Archaeological Museum of Veria",
+        "Vlachogianneio Museum of Macedonian struggle",
+        "Polycentric Museum of Aigai",
+        "Museum of the Royal Tombs at Aigai"
+      ]
+    },
+    {
+      "id": "churches",
+      "name": "Churches",
+      "poiIds": [
+        "Saint John the Baptist Monastery",
+        "Holy Monastery of All Saints",
+        "Holy Shrine of the Virgin Dovra",
+        "Holy Church of Saint Nicholas",
+        "Kuştul Monastery"
+      ]
+    },
+    {
+      "id": "sights",
+      "name": "Sights",
+      "poiIds": [
+        "Saint Paul's Tribune",
+        "Macedonian Tomb of the Pametes at Mieza",
+        "Naousa Clock Tower",
+        "Ottoman Twin Baths",
+        "Naousa Watermill"
+      ]
+    }
+  ],
+  "pois": {
+    "Naousa Clock Tower": {
+      "id": "Naousa Clock Tower",
+      "wikidataQid": "Q20497434"
+    },
+    "Vlachogianneio Museum of Macedonian struggle": {
+      "id": "Vlachogianneio Museum of Macedonian struggle",
+      "wikidataQid": "Q47343824"
+    },
+    "Ottoman Twin Baths": {
+      "id": "Ottoman Twin Baths",
+      "wikidataQid": "Q19337728"
+    },
+    "Naousa Watermill": {
+      "id": "Naousa Watermill",
+      "wikidataQid": "Q55408535"
+    },
+    "Archaeological Museum of Veria": {
+      "id": "Archaeological Museum of Veria",
+      "wikidataQid": "Q4785442"
+    },
+    "Museum of the Royal Tombs at Aigai": {
+      "id": "Museum of the Royal Tombs at Aigai",
+      "wikidataQid": "Q12881242"
+    },
+    "Holy Monastery of All Saints": {
+      "id": "Holy Monastery of All Saints",
+      "wikidataQid": "Q20498606"
+    },
+    "Polycentric Museum of Aigai": {
+      "id": "Polycentric Museum of Aigai",
+      "wikidataQid": "Q115783628"
+    },
+    "Kuştul Monastery": {
+      "id": "Kuştul Monastery",
+      "wikidataQid": "Q513424"
+    },
+    "Macedonian Tomb of the Pametes at Mieza": {
+      "id": "Macedonian Tomb of the Pametes at Mieza",
+      "wikidataQid": "Q38282931"
+    },
+    "Holy Church of Saint Nicholas": {
+      "id": "Holy Church of Saint Nicholas",
+      "wikidataQid": "Q12293226"
+    },
+    "Holy Shrine of the Virgin Dovra": {
+      "id": "Holy Shrine of the Virgin Dovra",
+      "wikidataQid": "Q12278918"
+    },
+    "Byzantine Museum of Veria": {
+      "id": "Byzantine Museum of Veria",
+      "wikidataQid": "Q5004704"
+    },
+    "Saint John the Baptist Monastery": {
+      "id": "Saint John the Baptist Monastery",
+      "wikidataQid": "Q12878093"
+    },
+    "Saint Paul's Tribune": {
+      "id": "Saint Paul's Tribune",
+      "wikidataQid": "Q26242338"
+    }
+  }
+}
